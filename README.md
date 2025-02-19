@@ -8,4 +8,3 @@ Esse projeto diz respeito a criação de um site para compras online de **isopor
 
 > !important
 > A documentaçao será alterada conforme andamento
-
