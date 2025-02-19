@@ -1,2 +1,11 @@
-# projetoWeb
-Neste repositório, irei modelar meu projeto web. O projeto é uma loja virtual para venda de isopor. 
+# Loja de isopor
+
+Esse projeto diz respeito a criação de um site para compras online de **isopor**
+
+## Requisitos funcionais
+1. Permitir cadastro de fornecedor
+2. Permitir venda de isopor por *fornecedores distintos*
+
+> !important
+> A documentaçao será alterada conforme andamento
+
